@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 import os
 
-conn = sqlite3.connect("nihgrantdb.db")
+conn = sqlite3.connect("grant.db")
 cur=conn.cursor()
 
 fns = os.listdir('./Data/PRJ')

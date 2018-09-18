@@ -1,2 +1,5 @@
 Data/
 grant.db
+.ipynb_checkpoints/
+abstracts.dill
+Grant_tracking_files/
