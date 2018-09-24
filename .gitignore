@@ -1,5 +1,7 @@
 Data/
 grant.db
 .ipynb_checkpoints/
-abstracts.dill
+*.dill
 Grant_tracking_files/
+*gensim*
+*.pkl
