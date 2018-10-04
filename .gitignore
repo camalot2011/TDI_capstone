@@ -5,3 +5,4 @@ grant.db
 Grant_tracking_files/
 *gensim*
 *.pkl
+Grant_tracking.slides.html
